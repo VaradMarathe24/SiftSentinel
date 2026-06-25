@@ -1,0 +1,4 @@
+Model,Accuracy,MacroF1
+Elman,0.22,0.17
+LSTM,0.78,0.78
+BERT,0.87,0.87

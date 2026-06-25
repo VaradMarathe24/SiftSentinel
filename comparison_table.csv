@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+Elman RNN,0.22,0.28,0.22,0.17
+LSTM,0.78,0.79,0.79,0.79
+BERT (DistilBERT),0.87,0.87,0.87,0.87
